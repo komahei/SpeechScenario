@@ -5,6 +5,7 @@
 [![支援アプリ動画](https://img.youtube.com/vi/3ilFax8-2Bw/0.jpg)](https://www.youtube.com/watch?v=3ilFax8-2Bw)
 
 # 本アプリの概要
+https://github.com/komahei/SpeechScenario/blob/main/speech_scenario.pdf
 
 
 # 使用させていただいたもの
