@@ -2,10 +2,10 @@
 音声合成を用いたシナリオ支援アプリ
 
 # 実行動画
-
-
-
 [![支援アプリ動画](https://img.youtube.com/vi/3ilFax8-2Bw/0.jpg)](https://www.youtube.com/watch?v=3ilFax8-2Bw)
+
+# 本アプリの概要
+https://drive.google.com/file/d/1HYoYaxkUseBzGD6r7hLGpF-59xuox85q/view?usp=sharing
 
 # 使用させていただいたもの
 tts_implementationにて実装されている音声合成のコードはPythonで学ぶ音声合成機械学習実践シリーズからTacotron2及びParallelWaveGANのコードを使用させていただいております。
